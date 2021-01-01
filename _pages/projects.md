@@ -1,11 +1,32 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Curriculum
+permalink: /CV/
+description: You can download my CV in <a href="/assets/pdf/CV.pdf" target="_blank"><b>PDF</b></a>
 nav: true
 ---
 
+
+## 🎓   Education
+- Ph.D. Candidate in ECE (Present) at HKUST supervised by Prof. [Pascale Fung](https://en.wikipedia.org/wiki/Pascale_Fung).
+- M.Sc. in CS at Pisa University 110/110 Honours supervised by Prof. [Giuseppe Attardi](http://pages.di.unipi.it/attardi/).
+- M.Sc. in AIS at HKBU 3.89/4.0 Distintion supervised by Prof. [Jiming Liu](https://www.comp.hkbu.edu.hk/~jiming/).
+- B.Sc. in CS at Perugia University 110/110 Honours supervised by Prof. [Pinotti Maria Cristina](https://sites.google.com/view/cristinampinotti/home).
+
+## 🧑‍💻   Work Experience
+- **Reasearch Intern** at FacebookAI. Working with the Assistant team on Task-Oriented Dialogue Systems. 
+- **Reasearch Intern** at UberAI. Working with the Converational AI team on RL problems.
+- **Adjunct Lecturer** of Databases for Specialty School of Medical Physics of Pisa University.
+- **Mentor2017** the Pisa CoderDojo (Volunteer Activity).
+- **Research Assistant** at the Center of Health Informatics in the HKBU Computer Science Department.
+
+## 🗃️   Professional Activity
+- **Tutorial** at NeurIPS 2020. "[Deeper Conversational AI](https://medium.com/@NeurIPSConf/tutorial-selections-for-neruips-2020-33b79f4915c4)" at NeurIPS 2020. 
+- **Reviewer** NAACL 2019, EMNLP 2019, ACL 2019, AAAI 2020, ACL 2020, EMNLP 2020, ICLR 2020, NeurIPS 2020, AAAI 2021, ICML 2021, NAACL 2021, and CSL.
+
+
+
+<!-- 
 <div class="projects grid">
 
   {% assign sorted_projects = site.projects | sort: "importance" %}
@@ -44,4 +65,4 @@ nav: true
   </div>
 {% endfor %}
 
-</div>
+</div> -->
