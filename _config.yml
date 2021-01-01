@@ -80,7 +80,7 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  curriculum:
+  projects:
     output: true
     permalink: /CV/:path/
 
