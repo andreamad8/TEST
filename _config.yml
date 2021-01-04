@@ -59,7 +59,7 @@ google_analytics: UA-80604868-2 # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog  # your blog must have a name for it to show up in the nav bar
+blog_name: 📓Blog  # your blog must have a name for it to show up in the nav bar
 blog_description: #
 permalink: /blog/:year/:title/
 

@@ -24,6 +24,11 @@ nav: true
 - **Tutorial** at NeurIPS 2020. "[Deeper Conversational AI](https://medium.com/@NeurIPSConf/tutorial-selections-for-neruips-2020-33b79f4915c4)" at NeurIPS 2020. 
 - **Reviewer** NAACL 2019, EMNLP 2019, ACL 2019, AAAI 2020, ACL 2020, EMNLP 2020, ICLR 2020, NeurIPS 2020, AAAI 2021, ICML 2021, NAACL 2021, and CSL.
 
+## 🏆   Awards
+- **PhD. Award 2020**: [SENG Academic Award](/assets/pdf/MADOTTO-Andrea-12232564.pdf) for Continuing PhD Students 2019-20.
+- **ConvAI-NeurIPS 2019** [best paper award](https://signalprocessingsociety.org/community-involvement/speech-and-language-processing/newsletter/neurips-2019-convai-workshop-recap#:~:text=The%20best%20paper%20award%20was,in%20a%20joint%20conversational%20setting.) for Attention Over Paramters for Dialogue Systems.
+- **ACL 2019** [outstanding paper award](https://acl2019.org/EN/winners-of-acl-2019-best-paper-awards.xhtml) (top 0.1% of the submission) for Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems.
+
 
 
 <!-- 
